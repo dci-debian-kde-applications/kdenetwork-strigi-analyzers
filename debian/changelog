@@ -1,5 +1,6 @@
 kdenetwork-strigi-analyzers (4:4.11.2-1) experimental; urgency=low
 
   * First release of kdenetwork after being split by upstream.
+  * Rename binary package.
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Oct 2013 14:09:20 +0200

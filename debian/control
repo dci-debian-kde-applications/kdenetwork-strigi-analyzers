@@ -18,7 +18,7 @@ Homepage: http://www.kde.org/
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/kdenetwork-strigi-analyzers.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/kdenetwork-strigi-analyzers.git
 
-Package: kdesdk-strigi-analyzers
+Package: kdenetwork-strigi-analyzers
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Network related analyzers for Strigi Desktop Search

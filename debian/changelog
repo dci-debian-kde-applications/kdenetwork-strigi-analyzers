@@ -1,4 +1,4 @@
-kdenetwork-strigi-analyzers (4:15.04.2-0ubuntu1) UNRELEASED; urgency=medium
+kdenetwork-strigi-analyzers (4:15.04.2-0ubuntu1) wily; urgency=medium
 
   [ Scarlett Clark ]
   * New upstream release
@@ -7,7 +7,7 @@ kdenetwork-strigi-analyzers (4:15.04.2-0ubuntu1) UNRELEASED; urgency=medium
   [ Jonathan Riddell ]
   * New upstream release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 06 Jun 2015 01:17:04 +0200
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 18:53:12 +0200
 
 kdenetwork-strigi-analyzers (4:14.12.3-0ubuntu1) vivid; urgency=medium
 

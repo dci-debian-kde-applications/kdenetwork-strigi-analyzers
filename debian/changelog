@@ -1,3 +1,11 @@
+kdenetwork-strigi-analyzers (4:15.12.0-2~1.gbpd14279) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @d14279de072dc627156959e749778e3c2897cea4 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:56:05 +0200
+
 kdenetwork-strigi-analyzers (4:15.12.0-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).

@@ -1,17 +1,13 @@
-kdenetwork-strigi-analyzers (4:15.12.0-2~2.gbp841105) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @841105994f319cbbea51184bfcb5737975f8ba38 **
+kdenetwork-strigi-analyzers (4:15.12.0-2) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @d14279de072dc627156959e749778e3c2897cea4 **
-
   * Bump Standards-Version to 3.9.8
 
   [ Maximiliano Curia ]
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 12:53:15 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 May 2016 17:01:04 +0200
 
 kdenetwork-strigi-analyzers (4:15.12.0-1) experimental; urgency=medium
 
